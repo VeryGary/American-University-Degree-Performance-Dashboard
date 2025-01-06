@@ -6,12 +6,19 @@ The American University Degree Performance Dashboard project is designed to prov
 The main goals of this project are:
 
 • Data Visualization: Develop dynamic visualizations for understanding degree outcomes and trends.
+
 • Data Transformation: Use Power Query Editor to ensure consistent and accurate data.
+
 • Data Modeling: Design a data model connecting information across schools, regions, and degree types.
+
 • Key Metrics: Provide insights into salary percentiles, average salaries by school type, and major-specific outcomes.
+
 • Interactive Visuals: Create visuals like bar charts, heatmaps, tables, and scatter plots.
+
 • Drill-Down Capabilities: Enable drill-down and drill-through views for granular analysis.
+
 • Filtering and Slicing: Add slicers for region, school type, major, and salary range.
+
 • AI Integration: Incorporate AI-driven Q&A for instant insights based on user queries.
 
 ## Project Overview
