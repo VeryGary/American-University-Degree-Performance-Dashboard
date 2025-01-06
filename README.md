@@ -13,14 +13,6 @@ The main goals of this project are:
 
 • Key Metrics: Provide insights into salary percentiles, average salaries by school type, and major-specific outcomes.
 
-• Interactive Visuals: Create visuals like bar charts, heatmaps, tables, and scatter plots.
-
-• Drill-Down Capabilities: Enable drill-down and drill-through views for granular analysis.
-
-• Filtering and Slicing: Add slicers for region, school type, major, and salary range.
-
-• AI Integration: Incorporate AI-driven Q&A for instant insights based on user queries.
-
 ## Project Overview
 
 • Data Source: Collected data from open university datasets and surveys.
