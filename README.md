@@ -24,15 +24,21 @@ The main goals of this project are:
 ## Project Overview
 
 • Data Source: Collected data from open university datasets and surveys.
+
 • Data Transformations: Applied data cleaning and transformations such as merges, column reformatting, and standardization in Power Query Editor.
+
 • Data Model: Created a star schema model to establish relationships between schools, regions, and degree data.
+
 • Visualizations: Included visuals such as bar charts for salary by percentile, heatmaps for regional trends, and tables for school/major-specific insights.
+
 • Custom Features: Added drill-through capabilities for school-specific analysis and AI-powered Q&A for deeper exploration.
+
 • Functionality: Incorporated slicers for filtering by region, school type, degree, and salary range.
 
 ## Benefits
 
 • Holistic Insights: Provides an interactive view of undergraduate degree performance across universities.
+
 • Data-Driven Decision Making: Assists students and policymakers in making informed decisions based on detailed data.
 
 The American University Degree Performance Dashboard project empowers users with a robust tool for analyzing degree outcomes across U.S. universities, facilitating better decision-making and planning.
